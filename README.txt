@@ -9,7 +9,7 @@ K3517025	HANIFAH HANUN DZAKIYAH
 K3517035	M. RIFQY ABDALLAH
 K3517045	NI HALIMAH WIJAYA
 K3517055	ROSALIA DEVI KIRANA
-K3517065	
+K3517065	Jose Feliciano Lim Belo Ximenes
 
 aplikasi game ini merupakan permainan dimana user diharuskan untuk menebak kata yang secara random dipilih (dari file daftar kata) oleh komputer. 
 pertama, user diminta untuk login. cukup menggunakan username saja. apabila username yang dimasukkan sebelumnya pernah bermain, skor yang terakhir kali ia dapatkan akan ditampilkan. dari sini, sesi bermain user dimulai.
