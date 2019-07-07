@@ -24,3 +24,5 @@ game ini seluruhnya dapat berjalan sebagaimana urutan diatas ketika dijalankan d
 1. pada langkah pertama, meski user sebelumnya pernah bermain, ia tidak disambut dan skor terakhirnya tidak ditampilkan
 2. pada langkah ketiga, terdapat 2 error. ketika kesempatan menjawab tinggal 1 kali, komputer menunjukkan error 'parsererror': kemudian gambar menjadi blank, dan nyawa menjadi bernilai minus 1. error lainnya adalah, ketika menjawab benar pada 1 huruf terakhir, ia juga menunjukkan 'parsererror'
 3. pada langkah kelima, pilihan 'play again' tidak menampilkan akumulasi skor
+
+
